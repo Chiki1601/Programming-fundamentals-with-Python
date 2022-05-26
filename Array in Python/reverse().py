@@ -1,4 +1,4 @@
-#count() method in Python array
+#reverse() method in Python array
 
 
 import array as arr
