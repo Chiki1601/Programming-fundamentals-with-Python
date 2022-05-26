@@ -1,0 +1,8 @@
+# remove() method in python array
+
+numArr =  arr.array('i',[10,20,30,40,50,60,70,80,90,100])
+print("All array items are: ",numArr)
+
+numArr.remove(60)
+
+print("All array items are (After removing 60): ",numArr)
